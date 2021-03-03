@@ -6,7 +6,7 @@ public class Bus extends Vehicle{
 		System.out.println("Bus is driven from hyd to Chennai");
 	}
 	public Bus(){
-		System.out.println("Displaying Bus with no args constructor");
+		System.out.println("Displaying Bus with no args constructor...");
 	}
 }
 
